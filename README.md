@@ -17,6 +17,21 @@ TaskFlow is a production-quality task management application built with React, T
   - Drag & Drop reordering using `@dnd-kit`.
   - Micro-interactions and smooth transitions using Tailwind CSS.
   - Confirmation dialogs for destructive actions.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./src/assets/Screenshot%202026-04-22%20004911.png" width="800" alt="Dashboard Screenshot 1">
+  <br><br>
+  <img src="./src/assets/Screenshot%202026-04-22%20004944%20copy.png" width="800" alt="Dashboard Screenshot 2">
+  <br><br>
+  <img src="./src/assets/Screenshot%202026-04-22%20005007.png" width="800" alt="Dashboard Screenshot 3">
+  <br><br>
+  <img src="./src/assets/image.png" width="800" alt="Feature Image 1">
+  <br><br>
+  <img src="./src/assets/image2.png" width="800" alt="Feature Image 2">
+</div>
+
 - **Persistence**: Automatic state persistence to `localStorage`.
 - **Keyboard Shortcuts**: Press `N` to quickly open the "New Task" modal.
 - **Responsive Design**: Mobile-first layout that scales beautifully from small screens to desktops.
