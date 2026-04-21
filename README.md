@@ -1,5 +1,7 @@
 # TaskFlow — Modern Task Management Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://task-management-nine-silk.vercel.app/)
+
 TaskFlow is a production-quality task management application built with React, TypeScript, and Tailwind CSS. It features a clean architecture, smooth animations, and a polished user interface.
 
 ## 🚀 Features
